@@ -1,3 +1,5 @@
-# Web App
+# Web API
 
-A web app was created using Nodejs, Express and DynamoDB.
+A web API was created using Nodejs and Express.
+
+This API uses the Single Responsibility Principle and Clean Architecture.
